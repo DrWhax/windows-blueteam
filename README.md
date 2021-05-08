@@ -1,7 +1,7 @@
 # windows-blueteam
 Windows resources that are useful for the blueteam
 
-### EDR
+### EDR/Logging software
 
 - FalconEye - https://github.com/rajiv2790/FalconEye
 - Sysmon - https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
